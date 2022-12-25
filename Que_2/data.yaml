@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/Neetiraj_Assignment/Dataset/train
+val: /content/drive/MyDrive/Neetiraj_Assignment/Dataset/valid
+test: /content/drive/MyDrive/Neetiraj_Assignment/Dataset/test
+
+nc: 2
+names: ['Person', 'Vehicle']
+
